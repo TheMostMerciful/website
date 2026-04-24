@@ -110,26 +110,3 @@ h1, h2 {
     transform: translate(-50%, -50%) rotate(-45deg);
     top: 50%;
 }
-
-@media screen and (min-width: 450px) and (max-width: 760px){
-    body{
-        background-color: red;
-    }
-    
-}
-
-.company_profile h1 {
-    color: pink;
-    padding-left: 150px;
-    padding-top: 100px;
-    font-weight: bold;
-    padding-bottom: 30px;
-}
-
-.company_profile #pp1{
-    background-color: rgb(0, 0, 0);
-    font-size: 18px;
-    padding: 50px;
-    color: #ffffff;
-}
-
